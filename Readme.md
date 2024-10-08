@@ -7,10 +7,7 @@ MovieDB is a Django-based web application designed to help users discover and ma
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
